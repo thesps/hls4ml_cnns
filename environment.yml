@@ -22,7 +22,6 @@ dependencies:
         - googleapis-common-protos==1.52.0
         - h5py==2.10.0
         - git+git://github.com/vloncar/hls4ml#egg=cnn_stream
-        - hls4ml==0.3.0
         - idna==2.10
         - importlib-resources==3.0.0
         - Keras-Preprocessing==1.1.2
